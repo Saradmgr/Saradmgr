@@ -68,7 +68,7 @@ I'm a versatile and hands-on developer who loves building full-stack application
   🔧 Key screens include splash, product detail, testimonials, and contact forms  
   💼 Internship Duration: **March 7 – June 7, 2025**
 
-- 💻 **Frontend-Only E -Commerce Project**  
+- 💻 **Frontend-Only E-Commerce Project**  
   A **React.js** project focused on user interface and data presentation, built entirely on the frontend using **React Js**,**React Redux** and a **fake API**. This was a learning project where I honed my skills in frontend development and state management.
 
 - 🤖 **Smart Door Lock System (Robotics Exam Project)**  
@@ -83,7 +83,7 @@ I'm a versatile and hands-on developer who loves building full-stack application
 
 ### 🎤 Talks & Events
 - 🧑‍🏫 **React Native: Introduction & Use Cases**  
-  Presented at *Tech Friday*, a virtual event hosted by **Sriyog Consulting** and **TechSoup** on  **May 2, 2025**. I shared insights on how React Native works and how it differs from React.js.
+  Presented at **Tech Friday**, a virtual event hosted by **Sriyog Consulting** and **TechSoup** on  **May 2, 2025**. I shared insights on how React Native works and how it differs from React.js.
 
 ---
 
