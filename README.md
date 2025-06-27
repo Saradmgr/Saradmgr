@@ -9,7 +9,10 @@
 ---
 
 ### 🚀 About Me
-I'm a versatile developer with a passion for creating full-stack applications, ranging from intuitive user interfaces to robust back-end systems. I enjoy writing clean, maintainable code and constantly expanding my skill set. Recently, I've delved into robotics and enjoy tackling both coding and hardware challenges. I’m always on the lookout for opportunities to learn, grow, and contribute.
+
+I'm a versatile developer with a passion for creating full-stack applications — from intuitive user interfaces to robust back-end systems. I enjoy writing clean, maintainable code and constantly expanding my skill set.  
+
+Recently, I've delved into robotics and enjoy tackling both coding and hardware challenges. I’m always on the lookout for opportunities to learn, grow, and contribute.
 
 ---
 
@@ -17,9 +20,8 @@ I'm a versatile developer with a passion for creating full-stack applications, r
 
 ---
 
-#### 🎨 Frontend
-
-> Tools and technologies I use to build beautiful, responsive UIs
+#### 🎨 Frontend  
+> Tools and technologies I use to build attractive, responsive UIs
 
 &nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 &nbsp;&nbsp;&nbsp;&nbsp;![React Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -30,8 +32,7 @@ I'm a versatile developer with a passion for creating full-stack applications, r
 
 ---
 
-#### 🧠 Backend & Database
-
+#### 🧠 Backend & Database  
 > Where I handle logic, storage, and server-side power
 
 &nbsp;&nbsp;&nbsp;&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -43,27 +44,23 @@ I'm a versatile developer with a passion for creating full-stack applications, r
 
 ---
 
-#### 💬 Programming Languages
-
+#### 💬 Programming Languages  
 > My core programming foundations
 
 &nbsp;&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 &nbsp;&nbsp;&nbsp;&nbsp;![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
-&nbsp;&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-#### 🤖 Other
-
+#### 🤖 Other  
 > Tech beyond software — into smart systems and innovation
 
 &nbsp;&nbsp;&nbsp;&nbsp;![Robotics](https://img.shields.io/badge/-Robotics-0066CC?style=for-the-badge&logo=robot&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;*(Kathmandu Metropolitan City Robotics Training)*
-
+&nbsp;&nbsp;&nbsp;&nbsp;*Kathmandu Metropolitan City Robotics Training*
 
 ---
 
-### 🛠 Projects
+### 📂 Projects
 
 - 🍲 **Recipe Recommendation System**  
   Built with the MERN stack, this system recommends recipes using **cosine similarity**. Includes admin functionality for managing recipes and viewing user data.
@@ -72,60 +69,52 @@ I'm a versatile developer with a passion for creating full-stack applications, r
   A PHP + MySQL web app to manage attendance records and generate reports.
 
 - 📚 **Project Management System** *(In Progress)*  
-  A full-stack college project management app using **React**, **Spring Boot**, and **PostgreSQL**.  
-  🔧 Features in development:
-  - Supervisor–student chat interface  
-  - Feedback tracking  
-  - Milestone-based deadlines  
-  - Smart grading with analytics and role-based access
+  A full-stack college project using **React**, **Spring Boot**, and **PostgreSQL**  
+  🔧 Features:  
+  &nbsp;&nbsp;&nbsp;&nbsp;• Supervisor–student chat  
+  &nbsp;&nbsp;&nbsp;&nbsp;• Feedback tracking  
+  &nbsp;&nbsp;&nbsp;&nbsp;• Milestone deadlines  
+  &nbsp;&nbsp;&nbsp;&nbsp;• Smart grading + analytics
 
-- 🌾 **Kisanpedia App (Internship Project)**  
-  A mobile app delivering real-time agricultural content to farmers and users across Nepal.  
-  ✅ **Designed, built, and deployed the entire app solo** using **React Native** during my internship  
-  🔧 Key screens include splash, product detail, testimonials, and contact forms  
-  💼 Internship Duration: **March 7 – June 7, 2025**
+- 🌾 **Kisanpedia App** *(Internship Project)*  
+  Real-time agricultural mobile app built with **React Native**  
+  ✅ Solo-built & deployed  
+  🔧 Key screens: splash, product detail, testimonials, contact  
+  🕒 Internship: March 7 – June 7, 2025
 
-- 💻 **Frontend-Only E-Commerce Project**  
-  A **React.js** project focused on UI and data presentation, built entirely on the frontend using **React Js**, **React Redux**, and a **fake API**. This was a learning project where I honed my skills in frontend development and state management.
+- 💻 **Frontend E-Commerce App**  
+  A learning project focused on UI using **React**, **Redux**, and a fake API
 
-- 🤖 **Smart Door Lock System (Robotics Exam Project)**  
-  Developed during my **Kathmandu Metropolitan City Robotics training**, this project involved building a **smart door lock system** using **Arduino Uno** with a keypad module, LCD, buzzer, LED, and ultrasonic sensor.  
-  ✅ Key Features:
-  - **Keypad entry** for password input  
-  - **LCD** to display the password  
-  - **Buzzer** and **LED** feedback for correct or incorrect passwords  
-  - **Ultrasonic sensor** to turn on the light when the user is near and open the gate if the password is correct
+- 🤖 **Smart Door Lock System**  
+  Robotics project using **Arduino Uno**  
+  ✅ Keypad password input  
+  ✅ LCD + Buzzer + LED feedback  
+  ✅ Ultrasonic sensor auto-detection and gate trigger
 
 ---
 
-### 🌐 Freelance – Portfolio Website for Ujjwal Adhikari
+### 🌐 Freelance: Ujjwal Adhikari’s Portfolio
 
-🔗 [ujjwaladhikari2005.com.np](https://ujjwaladhikari2005.com.np)
+🔗 [ujjwaladhikari2005.com.np](https://ujjwaladhikari2005.com.np)  
+Built a responsive `.com.np` personal portfolio site following a YouTube tutorial.  
 
-Created a simple and responsive personal portfolio website with the help of a YouTube tutorial.  
-📌 Learned about layout structure, responsiveness, and domain setup through this practice project.
-
-#### 🧰 Tech Used:
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-
-#### ✨ Features:
-- Responsive design for mobile and desktop  
-- Basic sections: About, Skills, Projects, Contact  
-- `.com.np` domain setup experience
+**Tech Used:** HTML5, CSS3, JavaScript  
+**Features:** Mobile-first design, project showcase, contact form
 
 ---
 
 ### 🎤 Talks & Events
+
 - 🧑‍🏫 **React Native: Introduction & Use Cases**  
-  Presented at **Tech Friday**, a virtual event hosted by **Sriyog Consulting** and **TechSoup** on **May 2, 2025**. I shared insights on how React Native works and how it differs from React.js.
+  Delivered at *Tech Friday*, hosted by **Sriyog Consulting** & **TechSoup** *(May 2, 2025)*  
+  ➤ Covered architecture, use cases, and how it's different from React.js
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let's Connect
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/saradmgr99/)  
-- 📧 saradkunwor20@gmail.com  
+- 📧 saradkunwor20@gmail.com
 
 ---
 
