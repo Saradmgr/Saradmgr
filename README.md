@@ -68,7 +68,7 @@ I'm a versatile and hands-on developer who loves building full-stack application
   🔧 Key screens include splash, product detail, testimonials, and contact forms  
   💼 Internship Duration: **March 7 – June 7, 2025**
 
-- 💻 **Frontend-Only E-Commerce Project**  
+- 💻 **Frontend-Only E -Commerce Project**  
   A **React.js** project focused on user interface and data presentation, built entirely on the frontend using **React Js**,**React Redux** and a **fake API**. This was a learning project where I honed my skills in frontend development and state management.
 
 - 🤖 **Smart Door Lock System (Robotics Exam Project)**  
@@ -80,10 +80,28 @@ I'm a versatile and hands-on developer who loves building full-stack application
   - **Ultrasonic sensor** to turn on the light when the user is near and open the gate if the password is correct
 
 ---
+### 🌐 Freelance – Portfolio Website for Ujjwal Adhikari
+
+🔗 [ujjwaladhikari2005.com.np](https://ujjwaladhikari2005.com.np)
+
+Created a simple and responsive personal portfolio website with the help of a YouTube tutorial.  
+📌 Learned about layout structure, responsiveness, and domain setup through this practice project.
+
+#### 🧰 Tech Used:
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+#### ✨ Features:
+- Responsive design for mobile and desktop  
+- Basic sections: About, Skills, Projects, Contact  
+- `.com.np` domain setup experience
+
+---
 
 ### 🎤 Talks & Events
 - 🧑‍🏫 **React Native: Introduction & Use Cases**  
-  Presented at **Tech Friday**, a virtual event hosted by **Sriyog Consulting** and **TechSoup** on  **May 2, 2025**. I shared insights on how React Native works and how it differs from React.js.
+  Presented at *Tech Friday*, a virtual event hosted by **Sriyog Consulting** and **TechSoup** on  **May 2, 2025**. I shared insights on how React Native works and how it differs from React.js.
 
 ---
 
