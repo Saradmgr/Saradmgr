@@ -118,5 +118,6 @@ Built a responsive `.com.np` personal portfolio site following a YouTube tutoria
 
 ---
 
-> *“Whether it’s writing clean code or returning a spinning serve, it’s all about precision, timing, and adaptability. Stay in rhythm—one function, one shot at a time.”* 🏓💻  
+> **Coding or table tennis—it's all about precision, timing, and adaptability.**  
+> *Stay in rhythm, one commit, one shot at a time.* 🏓💻
 **Keep building. Keep learning. Keep growing.** 🚀
