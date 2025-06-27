@@ -117,6 +117,5 @@ Built a responsive `.com.np` personal portfolio site following a YouTube tutoria
 - 📧 saradkunwor20@gmail.com
 
 ---
-
-> **Coding or table tennis—it's all about precision, timing, and adaptability.** *Stay in rhythm, one commit, one shot at a time.* 🏓💻
+> **Coding or table tennis—it's all about precision, timing, and adaptability. *Stay in rhythm, one commit, one shot at a time.* 🏓💻**
 **Keep building. Keep learning. Keep growing.** 🚀
