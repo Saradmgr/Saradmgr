@@ -13,21 +13,53 @@ I'm a versatile developer with a passion for creating full-stack applications, r
 
 ---
 
-#### **Tech Stack**
+### 🛠️ Tech Stack
 
-| **Frontend** | **Backend & Database** | **Languages** |
-| --- | --- | --- |
-| ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) |
-| ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) |
-| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | |
+---
 
-#### **Other:**
+#### 🎨 Frontend
 
-![Robotics](https://img.shields.io/badge/-Robotics-0066CC?style=flat&logo=robot&logoColor=white)  
-*(Kathmandu Metropolitan City)*  
+> Tools and technologies I use to build beautiful, responsive UIs
+
+&nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+&nbsp;&nbsp;&nbsp;&nbsp;![React Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+&nbsp;&nbsp;&nbsp;&nbsp;![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+#### 🧠 Backend & Database
+
+> Where I handle logic, storage, and server-side power
+
+&nbsp;&nbsp;&nbsp;&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+#### 💬 Programming Languages
+
+> My core programming foundations
+
+&nbsp;&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+&nbsp;&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+#### 🤖 Other
+
+> Tech beyond software — into smart systems and innovation
+
+&nbsp;&nbsp;&nbsp;&nbsp;![Robotics](https://img.shields.io/badge/-Robotics-0066CC?style=for-the-badge&logo=robot&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;*(Kathmandu Metropolitan City Robotics Training)*
+
 
 ---
 
