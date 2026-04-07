@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Sarad Kunwor
 
-🎓 Final-year BCA student at Saraswati Multiple Campus, Kathmandu  
+🎓 BCA graduate from Saraswati Multiple Campus, Kathmandu  
 💻 Full-stack developer passionate about building real-world digital solutions  
 📱 Completed a **React Native internship** at Sriyog Consulting Pvt. Ltd. *(March 7 – June 7, 2025)*, where I **solo-built and deployed** the **Kisanpedia** mobile app  
 🧑‍🏫 Presented a session on **React Native** at *Tech Friday*, a virtual tech event hosted by **Sriyog Consulting** and **TechSoup** on **May 2, 2025**  
